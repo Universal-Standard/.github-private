@@ -75,7 +75,7 @@ Expert in Kubernetes and container orchestration:
 
 ### Additional Specialized Agents
 
-The repository also includes specialized agents for the broader Universal Standard ecosystem:
+The repository also includes specialized agents under `.github/agents/` for the broader Universal Standard ecosystem:
 
 - `typescript-architect.md` — TypeScript architecture and shared patterns
 - `api-integration-specialist.md` — API contracts and service integrations

@@ -25,10 +25,12 @@ Custom AI agents are specialized AI assistants that can be configured to underst
 ├── README.md
 └── .github/
     └── agents/
-        ├── documentation-specialist.md
         ├── code-reviewer.md
+        ├── documentation-specialist.md
+        ├── kubernetes-specialist.md
+        ├── python-expert.md
         ├── testing-expert.md
-        └── kubernetes-specialist.md
+        └── [specialized ecosystem agents...]
 ```
 
 ## 🚀 Available Custom Agents
@@ -70,6 +72,31 @@ Expert in Kubernetes and container orchestration:
 - Resource optimization
 
 ## 📖 How to Use Custom Agents
+
+### Additional Specialized Agents
+
+The repository also includes specialized agents for the broader Universal Standard ecosystem:
+
+- `typescript-architect.md` — TypeScript architecture and shared patterns
+- `api-integration-specialist.md` — API contracts and service integrations
+- `security-hardening-specialist.md` — secure defaults, auth, and secrets hygiene
+- `workflow-orchestrator.md` — multi-step and multi-agent workflow coordination
+- `architecture-architect.md` — cross-system architecture and boundaries
+- `python-platform-specialist.md` — Python platform and service design
+- `frontend-ux-specialist.md` — user-facing flows and frontend quality
+- `devops-release-engineer.md` — build, deploy, and release operations
+- `data-model-specialist.md` — domain models and shared data contracts
+- `debugging-root-cause-specialist.md` — regression and incident root-cause analysis
+- `ci-cd-specialist.md` — pipeline automation and delivery reliability
+- `database-specialist.md` — schema, migrations, and query strategy
+- `observability-specialist.md` — logs, metrics, traces, and alerting
+- `prompt-and-policy-specialist.md` — prompt design, guardrails, and policy-aware agents
+- `interop-specialist.md` — compatibility across protocols, repos, and shared interfaces
+- `monorepo-maintainer.md` — large-repo structure and developer workflows
+- `legacy-migration-specialist.md` — staged modernization and upgrade planning
+- `quality-assurance-lead.md` — cross-project validation strategy and release confidence
+- `infra-platform-specialist.md` — shared infrastructure and platform reliability
+- `release-notes-specialist.md` — changelogs, rollout notes, and release summaries
 
 ### Testing Agents (Current Stage)
 
